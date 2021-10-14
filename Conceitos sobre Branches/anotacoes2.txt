@@ -1,0 +1,19 @@
+Branches: Bifurcação do conteúdo principal, é como se fosse uma ramificação;
+A branche principal pode continuar funncionando enquanto eu puxo uma branche paralelo sem bagunçar a branche principal;
+Main ou Master: são dois nomes de branches;
+
+Tag: Nome específico
+
+Head: Tag que acompanha o último commit;
+
+Git Commit
+
+Push - empurra arquivo da rede local para a rede remota;
+Git Checkout - movimenta pelas branches;
+-b- criando uma branche nova e se movimentando;
+echo - adicionar novo arquivo dentro da branche
+
+< A branche nova carrega toda história de commit da original;>
+
+Git Merge - junta a bifurcação, no caso a branche nova para a branche principal
+

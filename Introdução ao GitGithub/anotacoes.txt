@@ -1,0 +1,13 @@
+Link Para Download do Git: https://git-scm.com/downloads
+ Beneficios de Aprender o Git e Github
+1 - Controle de Versão;
+2 - Armazenamento em Nuvem;
+3 - Trabalho em equipe;
+4 - Reconhecimento;
+
+Primeiros Comandos
+git init - iniciar um repositório
+git add - mover arquivos
+git commit - criar o commit
+ls - listar
+cd - entrar na pasta
